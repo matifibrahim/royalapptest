@@ -14,9 +14,8 @@ Navigate to the directory where you want to store the Laravel project.
 Clone the Laravel project repository using Git by running the following command:
 bash
 
-### git clone <repository_url>
+### git clone [https://github.com/matifibrahim/royalapptest]
 
-Replace <repository_url> with the URL of your Laravel project repository.
 Install Dependencies:
 
 - Change into the project directory:
